@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/81eefe65-6f69-49bc-a947-e49b4aca6c85.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/muraena?orgId=320408544746)  
   <img alt="Muraena Logo" src="./media/img/muraena-logo.jpg"
    height="160" /><br>
 	<i>help us with a logo</i>
