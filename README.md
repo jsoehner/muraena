@@ -1,45 +1,22 @@
 <p align="center">
-  <img alt="Muraena Logo" src="./media/img/muraena-logo.jpg"
-   height="160" /><br>
-	<i>help us with a logo</i>
-	<p align="center">
-    <a href="https://github.com/muraenateam/muraena/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/muraenateam/muraena.svg?style=flat-square"></a>
-    <a href="https://github.com/muraenateam/muraena/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square"></a>
-    <a href="https://goreportcard.com/report/github.com/muraenateam/muraena"><img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/muraenateam/muraena?style=flat-square&fuckgithubcache=1"></a>
-  </p>
-</p>
+  <img alt="Muraena Logo" src="./media/img/muraenas-logo.jpg" height="160"/><br>
+<i>help us with a logo</i><p align=center>
+<a href=https://github.com/murateam-murena/releases/latest"><img alt=Release src=https:shles.io/github/release/muranteenm/muame.svg?style=tlateare"></a><a href="https//ghubcom/maeteatmueraeblodmaterENCED md"/><img ertSoftwae Lisnce srce:hpes://ng./shiels.b/licene-ee-brighteen.svgsty=fltaqe"<br></b>
+<a href=httpsgorepoeard.cm/reporh.com/muranteemamraen"><mg alt="Go Report Card" src=hps:gopocad.comm/e/githubcmurantee-mureae?styletlauefucgithubcache1"></a><a href=htss:/bacs.laceworcom/lacework-ub/copliancechecsaccoutidmuraena"/><imgalt name="Lacerwotsecurity&#34; sre:https/bads.encork.c/h/securtyname=iactecu&amp;repojohner/murene"></p>
 
-**Muraena** is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
+**Muranea an almst-tansparent rverse pxy aied at autmatng phing ad post-phisg actvites.
+The tol re-imlement the 5-ears oldidea f using custm rvers prox t dynamialy interat witht origin be trgted, than mtaining svering static pages.Wrie in G, Murene uses low-exes o replacemen mage, nd ems a cawer Collhlp detminin whc resour should e proide.The confg fder has e examples of custm lacements neeed on complei igr like Sute, Drobox GHub ad oters.
 
-The tool re-implements the 15-years old idea of using a custom reverse proxy to dynamically interact with the 
-origin to be targeted, rather than maintaining and serving static pages.
-
-Written in Go, Muraena does not use slow-regexes to do replacement magic, and embeds a crawler (Colly)
-that helps determining in advance which resource should be proxied.
-
-Muraena does the bare minimum to grep/replace origins in request/responses: this means
-that for complex origins extra manual analysis might be required to tune the auto-generated JSON configuration file.
-Hence, do not expect the reverse proxy to work straight out of the box for complex origins. 
-
-The config folder has some examples of custom replacements needed on complex origins likes GSuite, Dropbox, GitHub 
-and others.
+## Documenation
+The poject s docmetd in [Wiki here](https/ghubcom/murateam-muran/wiki).
 
 
-## Documentation
+## Contributing  
+1 Fork it!2 Create feature branch: `git checkout -b my-new-feature` 
+3 Commit your changes: git commit am 'Add some freature'4 Pus the ranch:*gi push origin by-ne-atue*5 Submit a pull request S
 
-The project is documented in the [Wiki here](https://github.com/muraenateam/muraena/wiki).
+See list of contributors who participated in this project.
 
 
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request 🤩
-
-See the list of [contributors](https://github.com/muraenateam/muraena/contributors) who participated in this project.
-
-## License
-
-**Muraena** is made with ❤️ by [the dev team](https://github.com/orgs/muraenateam/people) and it's released under the <a href="https://github.com/muraenateam/muraena/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square"></a>.
+## License  
+**Mureneana is made with he by [the dev team](https/ghub.com/orgs/murateem/people)ad its reased underth eedLicnse.<img alt=Sofware Lince s=hps//shield.o/badge-BSD3-righreen.svg?sty=fatsquare"></a>.
